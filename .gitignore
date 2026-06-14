@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Versiunea internă Laravel (integrare în app, NU pentru repo public)
+calculator-taxe.blade.php
